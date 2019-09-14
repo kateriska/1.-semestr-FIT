@@ -4,7 +4,7 @@
 Semestrální projekt 6 / 12 b.
 
 # ISC (Počítačový seminář)
-Úkol č. 1 - 4 / 4
+Úkol č. 1 - 4 / 4<br>
 Úkoly č. 2 a 3 - 7 / 8 b.
 
 # IUS (Úvod do softwarového inženýrství)
