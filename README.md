@@ -11,7 +11,7 @@ Semestrální projekt 6 / 12 b.
 Projekt - Model informačního systému - 9 / 25 b.
 
 # IZP (Základy programování)
-Projekt 1 - Práce s textem - 3,5 / 5 b.
-Projekt 2 - Iterační výpočty - 6,75 / 7 b.
-Projekt 3 - Jednoduchá shluková analýza - 9,9 / 10 b.
+Projekt 1 - Práce s textem - 3,5 / 5 b.<br>
+Projekt 2 - Iterační výpočty - 6,75 / 7 b.<br>
+Projekt 3 - Jednoduchá shluková analýza - 9,9 / 10 b.<br>
 Dokumentace zdrojového kódu - 1,3 / 4 b.
